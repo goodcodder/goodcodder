@@ -30,9 +30,12 @@ Developed an AI-powered fashion assistant featuring personalised recommendations
 ### SC2006 — Software Engineering Project
 **NTU | Team Project**
 
+Amenify is a web app that helps users find nearby public amenities in Singapore, including restrooms, water coolers, and nursing rooms. Users can filter results by accessibility and availability, get walking directions, and rate amenities.
 
 **My contributions:**
-
+- Created the initial use case diagram and refined it as the team clarified the system requirements.
+- Developed the project’s data dictionary to define key entities, attributes, and data types.
+- Completed the coding agent exercises, including regenerating the rating controller, validating it against 22 black-box test cases, and refactoring nearby search to avoid repeated distance calculations. Documented each step, the results, and my reflections in a PDF report.
 
 *Source code is private. Project documentation is available where permitted.*
 
