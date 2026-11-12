@@ -30,12 +30,9 @@ Developed an AI-powered fashion assistant featuring personalised recommendations
 ### SC2006 — Software Engineering Project
 **NTU | Team Project**
 
-[Briefly describe the application and its purpose]
 
 **My contributions:**
-- [Feature or component you implemented]
-- [Design or architectural responsibility]
-- [Technical challenge you helped resolve]
+
 
 *Source code is private. Project documentation is available where permitted.*
 
